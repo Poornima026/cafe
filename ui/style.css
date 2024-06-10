@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: #800080; /* Purple background */
+    color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.shop-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    background: #5cb85c;
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #4cae4c;
+}
+
+.come-again {
+    margin-top: 20px;
+    background: #800080; /* Purple background */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.come-again p {
+    margin: 0;
+}
